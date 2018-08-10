@@ -15,3 +15,7 @@ class Garden Gnome
   end
 
 end
+
+gnomies = name.new ("carl")
+
+puts Garden Gnome
