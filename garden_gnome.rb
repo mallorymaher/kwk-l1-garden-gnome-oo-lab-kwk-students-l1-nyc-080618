@@ -13,7 +13,5 @@ class Garden Gnome
   def age
     @age
   end
- end
-  
-  
-  
+
+end
