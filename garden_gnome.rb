@@ -2,3 +2,5 @@
 class Garden Gnome
   def 
   @name = name
+  @age = age
+  
