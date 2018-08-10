@@ -1,5 +1,5 @@
 # Code your instances here
-class Garden Gnome
+class Gnomes
   def initialize (gnome)
     @name = name
     @age = age
