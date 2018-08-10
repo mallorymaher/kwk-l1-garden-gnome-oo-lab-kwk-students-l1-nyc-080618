@@ -1,7 +1,5 @@
 class GardenGnome
   def initialize ()
-    @name = name
-    @age = age
     @personality = evil
   end 
   
@@ -19,6 +17,14 @@ class GardenGnome
   
   def age=(new_age)
     @age=new_age
+  end
+  
+  def gluten_allergy
+    @gluten_allergy
+  end
+  
+  def gluten_allergy=(new_gluten)
+    @gluten_allergy=new_gluten
   end
 
 end
