@@ -45,8 +45,11 @@ class GardenGnome
   end
   
   def shout
-    return 
+    return "GNARLY!!!"
+  end
 
+  def introduce_self
+    return ""
 end
 
 gnomies = name.new ("carl")
