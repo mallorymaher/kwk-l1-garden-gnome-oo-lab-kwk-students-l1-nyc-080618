@@ -1,6 +1,14 @@
 # Code your instances here
 class Garden Gnome
-  def 
-  @name = name
-  @age = age
+  def initialize (gnome)
+    
+  def name
+    @name
+  end
+  
+  def age
+    @age
+  end
+  
+  
   
