@@ -3,7 +3,9 @@ class Garden Gnome
   def initialize (gnome)
     @name = name
     @age = age
-    @
+    @personality = evil
+  end 
+  
   def name
     @name
   end
@@ -11,8 +13,7 @@ class Garden Gnome
   def age
     @age
   end
-  
-  def allergy
+ end
   
   
   
